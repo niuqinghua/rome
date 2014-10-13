@@ -15,3 +15,6 @@ hs_err_pid*
 *.iml
 *.lst
 */target/**
+.settings
+.classpath
+.project
